@@ -1,3 +1,12 @@
+# Используемые технологии:
+
+- React
+- Redux
+- ImmerJS
+- Styled Components
+- Formik
+- React-calendar
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
