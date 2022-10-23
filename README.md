@@ -1,3 +1,5 @@
+## Site live at https://currency-converter-glv6.vercel.app/
+
 # Используемые технологии:
 
 - React
